@@ -1,3 +1,6 @@
+Language Setting
+1.[中文](https://github.com/Brian-stars/brian-ruby-mod-1.18.2/blob/main/Chinese-README.md)
+
 This is a mod in my world version 1.18.2, which is Fabric Mod,
 
 
