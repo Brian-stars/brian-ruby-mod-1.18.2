@@ -1,3 +1,6 @@
+语言设置
+1.[English](https://github.com/Brian-stars/brian-ruby-mod-1.18.2/blob/main/README.md)
+
 这是一个我的世界1.18.2版本的mod，是fabric-mod，
 
 
