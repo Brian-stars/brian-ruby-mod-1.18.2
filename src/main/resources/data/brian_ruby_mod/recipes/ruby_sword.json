@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " W ",
+        " W ",
+        " R "
+    ],
+    "key": {
+       "W": {
+          "item": "brian_ruby_mod:ruby"
+       },
+       "R": {
+          "item": "minecraft:stick"
+       }
+    },
+    "result": {
+        "item": "brian_ruby_mod:ruby_sword",
+        "count": 1
+    }
+}
